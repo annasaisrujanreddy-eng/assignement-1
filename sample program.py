@@ -24,3 +24,9 @@ print('inches: ',inches)
 print(max(1,5,7,89,100))
 print(min(1,5,7,89,100))
 print(pow(2,2))
+
+a=(input('enter value of a: '))
+a=float(a)
+if a<7:
+    print('a is less than 7')
+    print ("none")
